@@ -76,6 +76,7 @@ Women working are often underrepresented in technical roles, particularly in lea
 
 
 * Bootstrap: Boostrap enables building of webpages quickly, which is key in short turnaround project.
+* JQuery enables implementing fast, small, and feature-rich JavaScript into HTML documents.
 * Git
 * GitHub
 * GitHub Pages
@@ -93,6 +94,7 @@ Women working are often underrepresented in technical roles, particularly in lea
   * [Canva](https://www.canva.com/): Used to create the favicon.
   * [Am I Responsive](https://ui.dev/amiresponsive): Used to test website responsiveness.
   * [Google App Script](https://developers.google.com/apps-script): Used to create the contact form.
+ 
 
 
 <br>
@@ -134,7 +136,7 @@ Roboto and Sans Serrif were identified as suitable fonts to be used on the websi
 
 #### Logo
 
-[Canva](https://www.canva.com/), [Photopea](https://www.photopea.com/), [Pixlr](https://pixlr.com/)  was used to create the Fem Code Logo
+[Canva](https://www.canva.com/), [Photopea](https://www.photopea.com/), [Pixlr](https://pixlr.com/)  were used to create the Fem Code Logo
 
 ### Wireframes
 
@@ -333,12 +335,12 @@ Thereafter, we ran a final check through Chrome's lighthouse audit service, and 
 
 <br>
 
-* Contact: 
+* Contact: Form is interactive and has pre-set criteria in place to prevent incorrect information being submitted. I can submit a message and a reply is displayed "Hey *name*, thank you for contacting us. We'll respond to your mail as soon as possible".
 
 <br>
 
-* 404: When I try to access a page that does not exist, the 404.html page is shown.
-![404 Page](docs/404.JPG)
+* 404: When I try to access a page that does not exist, the 404.html page is shown. The home button link is working and redirects you to the home page.
+![404 Page](/assets/images/404.png)
 
 <br>
 
